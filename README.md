@@ -1,9 +1,30 @@
-# TITULO_DO_CURSO
+# Python Pandas: técnicas avançadas
 
 Esse repositório contém os exercícios e anotações do curso
-[TITULO](LINK), da Alura.
+[Python Pandas: técnicas avançadas](https://cursos.alura.com.br/course/python-pandas-tecnicas-avancadas), da Alura.
+
+## Instruções
+
+1. Copiar/clonar o código do repositório para o seu computador.
+   - Como esse repositório é um modelo para outros repositórios, lembre-se de apagar o conteúdo da pasta .git.
+2. Executar o comando `git init` para inicializar o repositório.
+3. Adicione e commite todos os arquivos do repositório.
+4. Publique o repositório no GitHub.
+5. Ative o ambiente virtual do curso, com o comando `conda activate ..\.venv` ou comando similar.
+6. Execute o comando `pre-commit install` para instalar o pre-commit.
+7. Execute o comando `pip install -r requirements.txt` para instalar as dependências do projeto.
+
+Pronto. Aproveite seu curso.
 
 ## Ferramentas usadas nesse repositótio
+
+### EditorConfig for VS Code
+
+A extensão [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) permite que você sobreescreva algumas configurações do editor com as configurações encontradas no arquivo `.editorconfig`.
+
+### Prettier
+
+O Prettier é uma ferramenta que permite que você formate seu código de forma apropriada, de acordo com as configurações do arquivo `.prettierrc`.
 
 ### Autopep8
 
