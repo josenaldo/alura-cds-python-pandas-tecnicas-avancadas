@@ -72,4 +72,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Office temp files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+
+
 # End of https://www.gitignore.io/api/python,pycharm
