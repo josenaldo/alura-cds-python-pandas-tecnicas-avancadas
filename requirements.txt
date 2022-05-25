@@ -7,3 +7,5 @@ pre-commit
 pandas
 ipykernel
 openpyxl
+jupyterlab
+jupyterlab-git
